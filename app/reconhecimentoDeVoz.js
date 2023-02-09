@@ -37,7 +37,7 @@ const numeros = {
     'oito': 8,
     'nove': 9,
     'dez': 10,
-    'cem': 100
+    'sem': 100
 }
  
 const corrigeNumeros = (palavra) => {
